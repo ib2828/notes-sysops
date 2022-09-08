@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "3823dfbc2dadf1e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f159a4cb46b82c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/destop_linux/desktop utils.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ef31862a7989866",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f796c31f16e4ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1aecc78113e31d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f5667344a78a908",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a6aa53cd36e4e81",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c4d864a2e985d68",
+    "type": "split",
+    "children": [
+      {
+        "id": "814098ef84abe9d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2343db8f35b49136",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/destop_linux/desktop utils.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2d2df7c2a157893",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/destop_linux/desktop utils.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38a9cb3e71739702",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4dc77810fedd8c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/destop_linux/desktop utils.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0f159a4cb46b82c2",
+  "lastOpenFiles": [
+    "content/Programming_Language/golang/golang.md",
+    "content/Operating_Systems/ubuntu/ubuntu.md",
+    "content/CI_CD_Tool/gitlab_ci_cd.md",
+    "content/CI_CD_Tool/ci-cd.md",
+    "content/Networking_Security_and_Protocols/gpg_pgp.md",
+    "content/Networking_Security_and_Protocols/Networking_Security_and_Protocols.md",
+    "content/Networking_Security_and_Protocols/osi_model.md",
+    "content/Networking_Security_and_Protocols/ssh.md",
+    "content/Operating_Systems/Linux/Linux.md",
+    "content/infrastructure_as_Code/configuration_management_systems/configuration_managment_systems.md"
+  ]
+}
