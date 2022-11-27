@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "obsidian_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,14 +26,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "obsidian_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17034394eb4a6c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "obsidian_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -151,10 +163,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "337e27346e4d920f",
+  "active": "17034394eb4a6c3c",
   "lastOpenFiles": [
+    "obsidian_index.md",
     "content/Linux_OS_Concepts/Sysctl/Sysctl_notes.md",
-    "README.md",
     "content/infrastructure_as_Code/Ansible/Ansible_vault.md",
     "content/infrastructure_as_Code/Ansible/Ansible_notes.md",
     "content/Linux_OS_Concepts/Logs/Linux — как почистить логи  var_log_journal.md",
