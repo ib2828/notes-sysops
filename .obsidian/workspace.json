@@ -19,8 +19,21 @@
               }
             },
             "group": "84050c9f77e35c8f"
+          },
+          {
+            "id": "337e27346e4d920f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,17 +151,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0f159a4cb46b82c2",
+  "active": "337e27346e4d920f",
   "lastOpenFiles": [
-    "content/infrastructure_as_Code/Ansible/Ansible_vault.md",
+    "content/Linux_OS_Concepts/Sysctl/Sysctl_notes.md",
     "README.md",
+    "content/infrastructure_as_Code/Ansible/Ansible_vault.md",
     "content/infrastructure_as_Code/Ansible/Ansible_notes.md",
     "content/Linux_OS_Concepts/Logs/Linux — как почистить логи  var_log_journal.md",
     "content/CI_CD_Tool/gitlab_ci_cd.md",
     "links.md",
     "tools/tools.md",
     "images/devops_roadmap_2.jpeg",
-    "images/devops_roadmap_1.png",
-    "Old_notes/bash_single_line_scripts.md"
+    "images/devops_roadmap_1.png"
   ]
 }
