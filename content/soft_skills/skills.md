@@ -1,5 +1,5 @@
 ### Hard Skills</br>
-- scripting (bash,sheel)
+- scripting (bash,shell)
 - CI/CD
 - DB
      - Postgres

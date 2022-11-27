@@ -1,0 +1,1 @@
+`docker run -it --network=bridge bash` и в нём пинговалку: `let counter=0; while [ $counter -lt 1000000 ]; do nc -zvw10 172.17.0.1 6413 >/dev/nyll 2>&1; if [ $? -ne 0 ]; then echo "$counter try failed"; fi; let counter+=1; done`
